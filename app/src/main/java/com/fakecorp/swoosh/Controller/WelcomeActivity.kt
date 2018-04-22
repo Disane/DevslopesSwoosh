@@ -1,8 +1,8 @@
-package com.fakecorp.swoosh
+package com.fakecorp.swoosh.Controller
 
 import android.content.Intent
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.fakecorp.swoosh.R
 import kotlinx.android.synthetic.main.activity_welcome.*
 
 class WelcomeActivity : BaseActivity() {
